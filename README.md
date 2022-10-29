@@ -16,7 +16,8 @@ N/A
 
 ## Usage
 ```
-This Prework Study Guide contains notes on HTML, CSS, Git, and JavaScript. Opening the DevTools console will show the Javascript running.
+This Prework Study Guide contains notes on HTML, CSS, Git, and JavaScript. 
+Opening the DevTools console will show the Javascript running.
 ``` 
 
 ## License
